@@ -1,30 +1,59 @@
-Welcome to the cardgame Engine!
+Welcome to the cardgame Bitcoin Misconceptions!
 
-Cardgame instances as you see them on the web comprise of roughly two parts: the engine (which is in this repo) and the implementation, or the `card stack` or `card set`
-To illustrate the characteristics and benefits of the engine here, we will use: **Misconceptions about bitcoin** as an example.
+Cardgame instances as you see them on the web comprise of roughly two parts: the engine (which is in this repo) and the implementation, or the `card stack` or `card set`.
 
-> Important:  One cardgame engine can run multiple subjects in sets.
+> This is the **Misconceptions about bitcoin** repository!
 
-## What is Cardgame engine?
-It is a tool that helps to _get it right_ on the internet. Mission Impossible, no?\
-Maybe, but we offer an engine that lets you focus on a specific topic with a specific usergroup. The engine offers these features:
+## What is Cardgame Bitcoin Misconceptions?
+See the [About](https://blockchainbird.com/t/btc/about) page on the tool.
+
+## References fore and against!
+The Card game acknowledges, and is acknowledged by, several respected criticasters and respected **experts** in the bitcoin community and outside.
+
+* Bitcoin wiki
+* Elaine Ou
+* Eric Voskuil
+* Aaron van Wierdum
+* Andreas Antonopoulos
+* Parker Lewis
+* Christopher Allan
+* and many others.
+
+We integrated their contributions in the _More_-button of cards: response articles, comments and text, their fundamental thesis and instruction videos.
+
+Of course we respect **criticasters** too, at the minimum for their contribution to the list of Misconceptions, ready to answer:
+
+1. Peter Schiff
+2. Nouriel Roubini
+3. Warren Buffet
+4. Charles Munger 
+5. Jack Ma
+6. Robert Shiller
+7. Jamie Dimon
+
+and many others.
+
+Some peopple might never be able to change their minds, because of the extreme stands taken. Nevertheless we are thankful for their sacrifice of reputation (see how history proofs them right or wrong [here](https://www.bloomberg.com/features/bitcoin-bulls-bears/) ). 
+
+With their unceasing list of recognisable statements, we can more efficiently help you and the rest of the world to make up your mind. 
+
+## What's the drive, what's the use?
+Bitcoin Misconceptions is a tool that helps to _get it right_ about `bitcoin` on the internet. Mission Impossible, no?\
+Maybe, but we offer:
 - cards with layers, pictures, text, sound, videos, podcasts, read more links etc.
 - Twitter streams: actual tweets in the world about your _search keys_, eg. "_bitcoin_" and "_criminal_"
 - quizzes
 - Scores, calculates scores based on the actual interaction about a card stack in social media
 - About page for references, howtos, etc.
 
-Technically speaking it's github repo that you can generate a SPA site with. The site is responsive, so it works on deskop computers, laptops and mobile phones in the most used browsers. The site fills itself with content from a Google Sheet attached to it via JSON.
-
-# Bitcoin Misconceptions Example implementation
+# Bitcoin Misconceptions implementation
 ![Opening screen Cardgame Prejudice BTC](../Images/Opening-screen-Cardgame-Twitter-Stream-BTC.png)\
 Here is the live versions:\
 https://blockchainbird.com/t/btc
 
-## Functioning and recognition of various implementations of the engine
-Topics have distinctive colors in the tool and the content is focussed on different topics. Each implementation can have feature put on or off. But the rest is the same for all card-stacks.\
-Here are some live versions of the cardsets:
-* [Bitcoin misconceptions](https://blockchainbird.com/t/btc/)
+## Other implementations of the cardgame engine
+
+Here are some live versions of other card sets based on and maybe even running on the same engine:
 * [Blockchain bullshit buster](https://blockchainbird.com/t/bcb/)
 * [Misconception about self sovereign identity](https://blockchainbird.com/t/id/)
 
@@ -41,11 +70,10 @@ C. Enjoy the responses you get and the slow game of receiving scores for social 
 ## Who owns this tool? 
 No one and everyone at the same time: Open source, public*, free, no hidden agendas...
 
-## Related to what?
-A Cardgame engine is a white label open source engine in the back office. The card stack serves a certain purpose around a topic, e.g. "fight bitcoin prejudice" or "answers to bitcoin misconceptions" Dependent of topic, goal, approach, a card stack maintainer will look for experts in the field who acknowledge the content. These will be  respected criticasters and respected **experts** in a certain community (e.g. the bitcoin community) and/or outside.
+## About the creators and other roles
+A card stack maintainer will look for experts in the field who acknowledge the content. These will be  respected criticasters and respected **experts** in the Bitcoin community and/or outside.
 
-
-A cardgame creator will integrate their contributions in the _More_-button of cards: response articles, comments and text, their fundamental thesis and instruction videos.
+A cardgame creator will integrate expert contributions in the _More_-button of cards: response articles, comments and text, their fundamental thesis and instruction videos.
 
 In certain cases a card maintainer wants to offer a balanced view in cards and also grant acknowledgements to **criticasters**, at the minimum for their contributions.
 
