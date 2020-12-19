@@ -5,7 +5,7 @@ First read:
 - [Home](Home.md) of the documentation
 
 ### What's the "game" in the cardgame
-Periodically we count the number of likes, retweets and responses you get on the use of a card link. You score points relatively to the number of followers you have. Weekly we create **a high score list** that grants the players eternal fame. 
+Periodically we count the number of likes, retweets and replies you get on the use of a card link. You score points relatively to the number of followers you have. Weekly we create **a high score list** that grants the players eternal fame. 
 ![Grand score list all times](../Images/grand-champion.jpg)
 
 ### Game rules
@@ -26,19 +26,19 @@ Cards have a unique fixed url. Periodically we harvest the public data about the
 The routine of our game is: 
 1. search all cards in a fixed timeframe (e.g. a week)
 2. identify all card game tweets per twitter-id
-3. search alle likes, retweets en responses per twitter-id and card combination
+3. search alle likes, retweets and replies per twitter-id and card combination
 4. a retweet of a preceding handed out card, will give the retweeter and the original tweeter points. Original tweeter gets 0,5, retweeter gets 1 point.
 5. People with a small number of followers get a bonus for their points. 0-1K index number is 1, 1-10K index number is 0,75, 10K-100K, index number is 0,5 100K and above: 0,25.
-6. A _like_ is 1 point, and currently both a _retweet_ (with or without comment) and a _response_ are also 1 point.
+6. A _like_ is 1 point, and currently both a _retweet_ (with or without comment) and a reply are also 1 point.
 
 Example:<br/>
 @tw1ttWhaling13 has 15K followers<br/>
 @Sma11butF13rce has 500 followers<br/>
 
 The weekly harvest routine found:
-@tw1ttWhaling13 uses card 'Criminals' and gets: 5 responses (excluding his own responses), 10 retweets and 50 likes
-@Sma11butF13rce uses card 'Energy-waste' and gets: 3 responses (excluding his own responses), 1 retweets and 5 likes
-@Sma11butF13rce has retweeted to the '_Tax evasion_' card of @tw1ttWhaling13 of _last_ week and responded to it too. That response seemed to be spot on because @Sma11butF13rce got 10 likes and 5 retweets on that comment.
+@tw1ttWhaling13 uses card 'Criminals' and gets: 5 replies (excluding his own replies), 10 retweets and 50 likes
+@Sma11butF13rce uses card 'Energy-waste' and gets: 3 replies (excluding his own replies), 1 retweets and 5 likes
+@Sma11butF13rce has retweeted to the '_Tax evasion_' card of @tw1ttWhaling13 of _last_ week and replied to it too. That reply seemed to be spot on because @Sma11butF13rce got 10 likes and 5 retweets on that comment.
 
 ##### How will be the points be calculated of this example?
 The straight Twitter-like credits would be: <br/>
