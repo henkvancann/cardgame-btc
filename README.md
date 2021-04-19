@@ -23,9 +23,9 @@ We need to get it right and it needs to be fair. The elaborate explanation is [h
 
 #### Who's right, who's wrong?
 
-The cardgame *does not pretend to be right in everything at all times*. Our objective has been to:
+The cardgame *does not pretend to be right in everything at all times*. Our objective is to:
  - present a **nuanced and more complete** take on the matter
- - **substantiate the answers** with empirical data gathered from reknowned sources in the field
+ - **substantiate the answers** with empirical data gathered from renowned sources in the field
  - offer **a way to improve the answers** by anyone via the [Telegram-group](https://t.me/bcbird)
 
 ## For who is the cardgame
@@ -38,7 +38,7 @@ It's somebody who
 - knows a bit about bitcoin
 - neutral and eager to spread the correct message (neutral abritrary urge)
 
-Important to understand is that the cardgame is only secondairily meant for people who need to be trained about bitcoin and blockchain, those full of "misconceptions".
+Important to understand is that the cardgame is only secondarily meant for people who need to be trained about bitcoin and blockchain, those full of "misconceptions".
 
 ## What does the cardgame engine offer?
 
