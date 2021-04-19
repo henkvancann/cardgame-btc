@@ -1,8 +1,16 @@
 Welcome to the cardgame Bitcoin Misconceptions!
 
-Cardgame instances as you see them on the web comprise of roughly two parts: the engine (which is in this repo) and the implementation, or the `card stack` or `card set`.
+Cardgame instances as you see them on the web comprise of roughly two parts: 
+1. the engine (which is in the [Cardgame repo](https://github.com/blockchainbird/cardgame)) and 
+2. the implementation here, or the `card stack` or `card set`.
 
 > This is the **Misconceptions about bitcoin** repository!
+
+REPOSITORY IS A CONFUSING WORD in this context. The repo only consists of:
+- Documentation of the specific card set, its objectives, its users, its references, its rules of the game.
+- Manual: how to use it
+
+It's NOT the code instance of the cardgame. All instances (or cardsets if you wish) are generated from the [Cardgame repo](https://github.com/blockchainbird/cardgame) only.
 
 ## What is Cardgame Bitcoin Misconceptions?
 See the [About](https://blockchainbird.com/t/btc/about) page on the tool.
